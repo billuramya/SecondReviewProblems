@@ -1,0 +1,4 @@
+C:\Users\billu\source\repos\SecondReviewProblems\SecondReviewProblems\obj\Debug\net8.0\SecondReviewProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\billu\source\repos\SecondReviewProblems\SecondReviewProblems\obj\Debug\net8.0\SecondReviewProblems.AssemblyInfoInputs.cache
+C:\Users\billu\source\repos\SecondReviewProblems\SecondReviewProblems\obj\Debug\net8.0\SecondReviewProblems.AssemblyInfo.cs
+C:\Users\billu\source\repos\SecondReviewProblems\SecondReviewProblems\obj\Debug\net8.0\SecondReviewProblems.csproj.CoreCompileInputs.cache
